@@ -5,10 +5,10 @@ version = "1.0.0"
 license = {file = "LICENSE"}
 
 [project.urls]
-Repository = "https://github.com/Q-Bug4/Comfyui-Simple-Json-Node"
+Repository = "https://github.com/bozoyan/Comfyui-Simple-Json-Node"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "qbug"
+PublisherId = "bozoyan"
 DisplayName = "Comfyui-Simple-Json-Node"
 Icon = ""
