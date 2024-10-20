@@ -18,7 +18,7 @@ A custom node for ComfyUI to parse and extract data from JSON strings.
    ```
 2. Clone the repository:
    ```
-   git clone git@github.com:Q-Bug4/Comfyui-Simple-Json-Node.git
+   git clone git@github.com:bozoyan/Comfyui-Simple-Json-Node.git
    ```
 3. Restart ComfyUI or reload custom nodes.
 
